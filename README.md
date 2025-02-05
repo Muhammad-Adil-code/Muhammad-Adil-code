@@ -1,5 +1,5 @@
 # 💫 About Me:
-A MERN Stack Website Developer, I'm currently working on Full stack web development & AI
+A MERN Stack Website Developer, I'm currently working on Full stack web development & AI.
 
 
 ## 🌐 Socials:
