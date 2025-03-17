@@ -1,8 +1,14 @@
-# 💫 About Me:
-A MERN Stack Website Developer, I'm currently working on Full stack web development & AI.
+# 💫 About Me  
+### Hi there! I'm Muhammad Adil 👋  
+I'm a **MERN Stack Developer** with a passion for **Full-Stack Web Development** and **AI**. I love building scalable web applications, working with modern technologies, and constantly improving my skills.  
 
+🔹 **Currently Working On:** Full-Stack Web Development & AI  
+🔹 **Looking To Collaborate On:** Open-source projects, MERN stack applications, and AI integrations  
+🔹 **Fun Fact:** I love problem-solving and exploring new technologies  
 
-## 🌐 Socials:
+---
+
+## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-adil-76512b2aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadadilrasool711@gmail.com) 
 
 # 💻 Tech Stack:
@@ -18,4 +24,3 @@ A MERN Stack Website Developer, I'm currently working on Full stack web developm
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Adil-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
