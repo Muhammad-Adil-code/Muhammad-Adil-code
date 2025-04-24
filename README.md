@@ -2,7 +2,7 @@
 ### Hi there! I'm Muhammad Adil 👋  
 I'm a **MERN Stack Developer** with a passion for **Full-Stack Web Development** and **AI**. I love building scalable web applications, working with modern technologies, and constantly improving my skills.  
 
-🔹 **Currently Working On:** Full-Stack Web Development & AI/ML 
+🔹 **Currently Working On:** Full-Stack Web Development & AI/ML   
 🔹 **Looking To Collaborate On:** Open-source projects, MERN stack applications, and AI integrations  
 🔹 **Fun Fact:** I love problem-solving and exploring new technologies  
 
