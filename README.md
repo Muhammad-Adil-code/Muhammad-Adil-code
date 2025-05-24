@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=1000&lines=Turning+coffee+into+code+since+before+JavaScript+was+cool.;Making+AI+do+things+humans+don’t+want+to.;Still+debugging+that+one+bug+from+2020.;Creating+things+that+sometimes+work!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=1000&lines=Coming+a+MERN+Stack+Developer.;Passionate+AI%2FML+Engineer+in+the+making.;Turning+coffee+into+code+since+before+JavaScript+was+cool.;Making+AI+do+things+humans+don’t+want+to.;Still+debugging+that+one+bug+from+2020.;Creating+things+that+sometimes+work!" alt="Typing SVG" />
 </p>
 
 
