@@ -55,8 +55,8 @@
 🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
 🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-📅 **Most productive on**: Sunday (because Monday is scary and Saturday is for pizza)
 ```
+📅 **Most productive on**: Sunday (because Monday is scary and Saturday is for pizza)
 ---
 
 ### 🏆 Trophy Shelf (Shiny, right?)
