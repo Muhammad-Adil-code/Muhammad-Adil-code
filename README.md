@@ -7,9 +7,8 @@
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="300" width="400" alt="Mind Blown Debugging Moment" />
 </p>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+before+JavaScript+was+cool.;Making+AI+do+things+humans+don’t+want+to.;Still+debugging+that+one+bug+from+2020.;Creating+things+that+sometimes+work!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+before+JavaScript+was+cool.;Making+AI+do+things+humans+don’t+want+to.;Still+debugging+that+one+bug+from+2020.;Creating+things+that+sometimes+work!" alt="Typing SVG" />
 </div>
 
 
