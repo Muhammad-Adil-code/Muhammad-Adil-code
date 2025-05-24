@@ -4,10 +4,6 @@
 <h3 align="center">I'm Muhammad Adil — Code Whisperer, MERN Magician & AI Sorcerer (100% wizard-free 🧙‍♂️)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="300" width="400" alt="Mind Blown Debugging Moment" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=1000&lines=Writing+clean+code+that+mostly+works+on+the+first+try.;Transforming+coffee+into+deployable+AI+solutions.;Engineer+by+day%2C+debugging+wizard+by+night.;Still+haunted+by+that+one+semicolon's+revenge.;Making+machines+learn+so+humans+can+nap+more.;Bringing+ideas+to+life+with+JavaScript%2C+Python%2C+and+grit.;Currently+training+an+AI+that+might+replace+me.;Because+%22It+worked+on+my+machine%22+isn’t+good+enough.;Helping+humans+do+less+by+teaching+machines+to+do+more." alt="Typing SVG" />
 </p>
 
