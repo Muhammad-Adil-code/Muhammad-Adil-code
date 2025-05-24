@@ -4,8 +4,9 @@
 <h3 align="center">I'm Muhammad Adil — Code Whisperer, MERN Magician & AI Sorcerer (100% wizard-free 🧙‍♂️)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="300" width="400" alt="Cat Coding in Chaos" />
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" height="300" width="400" alt="AI Brainstorming" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+before+JavaScript+was+cool.;Making+AI+do+things+humans+don’t+want+to.;Still+debugging+that+one+bug+from+2020.;Creating+things+that+sometimes+work!" />
