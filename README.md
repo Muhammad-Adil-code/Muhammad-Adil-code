@@ -4,9 +4,8 @@
 <h3 align="center">I'm Muhammad Adil — Code Whisperer, MERN Magician & AI Sorcerer (100% wizard-free 🧙‍♂️)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" height="300" width="400" alt="Code Wizardry" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="300" width="400" alt="Mind Blown Debugging Moment" />
 </p>
-
 
 
 <p align="center">
