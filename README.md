@@ -74,7 +74,7 @@
   <a href="https://linkedin.com/in/muhammad-adil-76512b2aa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://github.com/Muhammad-Adil-code"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
   <a href="mailto:muhammadadilrasool711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
-  <a href="https://portfolio-pi-eight-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://m-adil-fawn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
 ---
