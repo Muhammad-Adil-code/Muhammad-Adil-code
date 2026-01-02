@@ -16,8 +16,6 @@
 
 - 🚀 **Currently Launching:** AI that understands humans better than their coworkers do.
 - 🤝 **Collab Goals:** MERN stack wizardry, AI/ML marvels, and ideas so wild they need disclaimers.
-- 😂 **Fun Fact:** I once spent 6 hours debugging... just to realize my laptop wasn’t plugged in.
-
 ---
 
 ## 🛠️ My Weapon Rack (A Dev Never Goes to Battle Unarmed)
@@ -40,11 +38,6 @@
 
 ---
 
-## 🔥 My Dev Activity (I swear I do stuff...)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Adil-code&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
@@ -53,7 +46,7 @@
 ```txt
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░   12.65% 
 🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   58.09% 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 ```
 ---
