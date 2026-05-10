@@ -1,29 +1,54 @@
 <!-- README.md -->
 
-<h1 align="center">👾 Welcome, Curious Human!</h1>
-<h3 align="center">I'm Muhammad Adil — Code Whisperer, MERN Magician & AI Sorcerer (100% wizard-free 🧙‍♂️)</h3>
+<h1 align="center">Muhammad Adil</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • AI Automation Architect • Voice AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=1000&lines=Writing+clean+code+that+mostly+works+on+the+first+try.;Transforming+coffee+into+deployable+AI+solutions.;Engineer+by+day%2C+debugging+wizard+by+night.;Still+haunted+by+that+one+semicolon's+revenge.;Making+machines+learn+so+humans+can+nap+more.;Bringing+ideas+to+life+with+JavaScript%2C+Python%2C+and+grit.;Currently+training+an+AI+that+might+replace+me.;Because+%22It+worked+on+my+machine%22+isn’t+good+enough.;Helping+humans+do+less+by+teaching+machines+to+do+more." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=1200&lines=AI+Engineer+specializing+in+LLMs%2C+Automation+%26+AI+Agents;Building+production-grade+AI+systems+and+AI+SaaS+platforms;Voice+AI+%7C+LangGraph+%7C+RAG+%7C+MCP+%7C+OpenAI+Integrations;Full+Stack+Developer+using+React%2C+FastAPI%2C+Node.js+and+Python;Developing+AI+automation+systems+for+real-world+scale;Creating+multi-agent+AI+workflows+and+intelligent+automation;Building+realtime+AI+products+with+scalable+architectures" alt="Typing SVG" />
 </p>
-
 
 ---
 
-## 🧠 About Me (Now with 2% extra charisma!)
+# 🚀 About Me
 
-> I’m a **Full-Stack Developer** obsessed with building delightful experiences that **don’t crash... often**. From crafting buttery-smooth UIs with React to injecting AI into apps like it’s the future (spoiler: it is), I enjoy walking the tightrope between creativity and caffeine overdose.
+AI Engineer and Full Stack Developer focused on building scalable AI systems, automation platforms, AI SaaS products, and intelligent workflows.
 
-- 🚀 **Currently Launching:** AI that understands humans better than their coworkers do.
-- 🤝 **Collab Goals:** MERN stack wizardry, AI/ML marvels, and ideas so wild they need disclaimers.
+I specialize in:
+- AI Agents & Multi-Agent Systems
+- Voice AI Platforms
+- RAG Pipelines & Document Intelligence
+- No-Code / Low-Code AI Automation
+- LangGraph & LLM Workflows
+- Full Stack AI SaaS Development
+- Realtime AI Applications
+- OpenAI, Claude & Gemini Integrations
+- FastAPI, Node.js, React & Python Systems
+
+I build production-grade systems combining AI reasoning, automation pipelines, realtime infrastructure, and scalable backend architectures.
+
 ---
 
-## 🛠️ My Weapon Rack (A Dev Never Goes to Battle Unarmed)
+# 🧠 Core Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,nodejs,express,mongodb,python,tensorflow,jupyter,numpy,pandas,git,github,vscode,vercel,netlify,postman,figma,canva" />
-</p>
-
+```txt
+AI Engineering
+LLM Applications
+AI Automation
+Voice AI Systems
+LangGraph Workflows
+RAG Pipelines
+MCP Integrations
+Realtime AI Platforms
+AI SaaS Development
+AI Surveillance Systems
+OpenAI Integrations
+Claude & Gemini Integrations
+FastAPI Architecture
+React & Next.js Applications
+Node.js Backend Systems
+Python Automation
+n8n AI Workflows
+Multi-Agent Architectures
 ---
 
 ## 📊 GitHub Stats (Because numbers make everything seem more serious)
