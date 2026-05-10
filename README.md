@@ -31,35 +31,25 @@ I build production-grade systems combining AI reasoning, automation pipelines, r
 # 🧠 Core Expertise
 
 
-AI Engineering
-LLM Applications
-AI Automation
-Voice AI Systems
-LangGraph Workflows
-RAG Pipelines
-MCP Integrations
-Realtime AI Platforms
-AI SaaS Development
-AI Surveillance Systems
-OpenAI Integrations
-Claude & Gemini Integrations
-FastAPI Architecture
-React & Next.js Applications
-Node.js Backend Systems
-Python Automation
-n8n AI Workflows
-Multi-Agent Architectures
+- AI Engineering
+- LLM Applications
+- AI Automation
+- Voice AI Systems
+- LangGraph Workflows
+- RAG Pipelines
+- MCP Integrations
+- Realtime AI Platforms
+- AI SaaS Development
+- AI Surveillance Systems
+- OpenAI Integrations
+- Claude & Gemini Integrations
+- FastAPI Architecture
+- React & Next.js Applications
+- Node.js Backend Systems
+- Python Automation
+- n8n AI Workflows
+- Multi-Agent Architectures
 ---
-
-## 📊 GitHub Stats (Because numbers make everything seem more serious)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Adil-code&theme=tokyonight&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Adil-code&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Adil-code&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 ## 🛠️ Technologies & Tools
