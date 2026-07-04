@@ -101,6 +101,32 @@ status:       Open to work · Available for AI engineering & SaaS contracts
 
 ## ◈ Featured Projects
 
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 🗄️ [Klean Data](https://github.com/Muhammad-Adil-code/Klean-data) &nbsp; ![v1.0.0](https://img.shields.io/badge/v1.0.0-F97316?style=flat-square)
+
+**AI-powered database chat — no SQL needed**
+
+Connect any database and ask questions in plain English. AI generates the query, shows you the plan, and runs it only after your approval.
+
+`React` `TypeScript` `FastAPI` `OpenRouter` `Python`
+
+✅ Natural language → SQL &nbsp; ✅ Human-in-the-loop approval
+✅ Voice input · File upload &nbsp; ✅ PostgreSQL · MySQL · SQLite · MongoDB
+
+</td>
+<td width="48%" valign="top">
+<img src="https://raw.githubusercontent.com/Muhammad-Adil-code/Klean-data/main/screenshots/demo.gif" width="100%" alt="Klean Data Demo"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**More Projects**
+
 | 🚀 Project | 🛠 Stack | 🎯 Highlights |
 |---|---|---|
 | **[Multi-Tenant AI SaaS](https://github.com/Muhammad-Adil-code/Automation)** | Express · TS · Anthropic · OpenAI · Stripe · Socket.IO · Redis | Embeddable AI chat widget, product catalog, cart, orders, knowledge base, billing, realtime |
