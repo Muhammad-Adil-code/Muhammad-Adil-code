@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://m-adil-fawn.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adil-code/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Adil-code)
+[![PyPI](https://img.shields.io/badge/PyPI-adil1081-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/adil1081/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adil.mern.ai@gmail.com)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Muhammad-Adil-code&label=Profile%20views&color=blueviolet&style=flat-square)](https://github.com/Muhammad-Adil-code)
