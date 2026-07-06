@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://m-adil-fawn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://adil-vert.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adil-code/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Adil-code)
 [![PyPI](https://img.shields.io/badge/PyPI-adil1081-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/adil1081/)
@@ -27,7 +27,7 @@ expertise:    Voice AI · Multi-Agent Systems · RAG Pipelines · LangGraph · P
 focus:        Building AI that actually ships — not demos, real products
 shipped:      Multi-tenant AI SaaS · Realtime voice agents · RAG document search
 location:     Lahore, Punjab, Pakistan 🇵🇰
-website:      m-adil-fawn.vercel.app
+website:      adil-vert.vercel.app
 status:       Open to work · Available for AI engineering & SaaS contracts
 ```
 
@@ -122,6 +122,25 @@ Connect any database and ask questions in plain English. AI generates the query,
 <img src="https://raw.githubusercontent.com/Muhammad-Adil-code/Klean-data/main/screenshots/demo.gif" width="100%" alt="Klean Data Demo"/>
 </td>
 </tr>
+<tr>
+<td width="52%" valign="top">
+
+### 🛡️ [ReconX](https://github.com/Muhammad-Adil-code/ReconX) &nbsp; ![v1.0.0](https://img.shields.io/badge/v1.0.0-8B5CF6?style=flat-square)
+
+**All-in-one AI cybersecurity toolkit**
+
+Chat with an agent that scans a target, runs the right recon tool, and explains every finding. 15 security modules, AI-powered reports, bug-bounty ready.
+
+`React` `TypeScript` `Electron` `Python` `FastAPI`
+
+✅ 15 security modules &nbsp; ✅ AI-powered reports
+✅ Web · Desktop · Python package &nbsp; ✅ Bug bounty ready
+
+</td>
+<td width="48%" valign="top">
+<img src="https://raw.githubusercontent.com/Muhammad-Adil-code/ReconX/main/assets/demo.gif" width="100%" alt="ReconX Demo"/>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -178,7 +197,7 @@ Connect any database and ask questions in plain English. AI generates the query,
 - ⚡ AI Automation & Integration — n8n, custom pipelines
 - 📄 RAG & LLM Integrations for enterprise data
 
-📬 **Reach me:** [adil.mern.ai@gmail.com](mailto:adil.mern.ai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-adil-code/) · [Portfolio](https://m-adil-fawn.vercel.app/)
+📬 **Reach me:** [adil.mern.ai@gmail.com](mailto:adil.mern.ai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-adil-code/) · [Portfolio](https://adil-vert.vercel.app/)
 
 ---
 
@@ -192,6 +211,6 @@ Connect any database and ask questions in plain English. AI generates the query,
 
 ### ⚡ "Code that learns. Systems that ship. Products that scale." ⚡
 
-[![Visit Portfolio](https://img.shields.io/badge/▶_Visit_my_portfolio-m--adil--fawn.vercel.app-FF4081?style=for-the-badge)](https://m-adil-fawn.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/▶_Visit_my_portfolio-adil--vert.vercel.app-FF4081?style=for-the-badge)](https://adil-vert.vercel.app/)
 
 </div>
