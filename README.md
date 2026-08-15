@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://adil-vert.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adilaidev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adil-code/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Adil-code)
 [![PyPI](https://img.shields.io/badge/PyPI-adil1081-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/adil1081/)
@@ -28,7 +28,7 @@ expertise:    Voice AI · Multi-Agent Systems · RAG Pipelines · LangGraph · P
 focus:        Building AI that actually ships — not demos, real products
 shipped:      Multi-tenant AI SaaS · Realtime voice agents · RAG document search
 location:     Lahore, Punjab, Pakistan 🇵🇰
-website:      adil-vert.vercel.app
+website:      adilaidev.com
 status:       Open to work · Available for AI engineering & SaaS contracts
 ```
 
@@ -198,7 +198,7 @@ Chat with an agent that scans a target, runs the right recon tool, and explains 
 - ⚡ AI Automation & Integration — n8n, custom pipelines
 - 📄 RAG & LLM Integrations for enterprise data
 
-📬 **Reach me:** [adil.mern.ai@gmail.com](mailto:adil.mern.ai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-adil-code/) · [Portfolio](https://adil-vert.vercel.app/)
+📬 **Reach me:** [adil.mern.ai@gmail.com](mailto:adil.mern.ai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-adil-code/) · [Portfolio](https://www.adilaidev.com/)
 
 ---
 
@@ -212,6 +212,6 @@ Chat with an agent that scans a target, runs the right recon tool, and explains 
 
 ### ⚡ "Code that learns. Systems that ship. Products that scale." ⚡
 
-[![Visit Portfolio](https://img.shields.io/badge/▶_Visit_my_portfolio-adil--vert.vercel.app-FF4081?style=for-the-badge)](https://adil-vert.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/▶_Visit_my_portfolio-adilaidev.com-FF4081?style=for-the-badge)](https://www.adilaidev.com/)
 
 </div>
